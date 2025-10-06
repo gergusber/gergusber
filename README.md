@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 👋 German Gustavo Bertea
 **Full‑Stack Software Engineer** — Open to Full Stack positions to keep growing and building impactful software.
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=German+Gustavo+Bertea)  
+<!-- ![Profile Banner](https://via.placeholder.com/1000x200.png?text=German+Gustavo+Bertea)  -->
 
 📍 **Location:** Córdoba, Argentina 
 ✉️ **Email:** [gerbertea@gmail.com](mailto:gerbertea@gmail.com)  

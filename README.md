@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/gertea"><img src="https://api.daily.dev/devcards/v2/JK0j0KN2AFMdHRAynWUZg.png?r=xq5" width="356" alt="German Bertea's Dev Card"/></a>
-
----
-title: German Gustavo Bertea
-layout: default
----
 
 # 👋 German Gustavo Bertea
 **Full‑Stack Software Engineer** — Open to Full Stack positions to keep growing and building impactful software.
@@ -36,6 +30,10 @@ layout: default
 
 ## 🚀 Summary
 Fullstack Engineer with extensive experience building scalable systems using **.NET, C#, Node.js, React, Next.js**. Skilled in migrating legacy applications to microservices, implementing observability, and delivering high-quality backend and frontend solutions in cloud environments (AWS, Azure).
+
+---
+
+<a href="https://app.daily.dev/gertea"><img src="https://api.daily.dev/devcards/v2/JK0j0KN2AFMdHRAynWUZg.png?r=xq5" width="356" alt="German Bertea's Dev Card"/></a>
 
 ---
 

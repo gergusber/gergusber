@@ -2,8 +2,7 @@
 **Full‑Stack Software Engineer** — Open to Full Stack positions to keep growing and building impactful software.
 
 📍 **Location:** Córdoba, Argentina 
-✉️ **Email:** [gerbertea@gmail.com](mailto:gerbertea@gmail.com)  
-📞 **Phone:** +54 93385501008  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/germanbertea/) • [GitHub](https://github.com/gergusber)
 
 ---
